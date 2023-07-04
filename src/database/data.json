@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "nombre": "Zapatillas deportivas",
+      "marca": "Nike",
+      "precio": 100,
+      "color": "Negro"
+    },
+    {
+      "id": "2",
+      "nombre": "Zapatillas casuales",
+      "marca": "Adidas",
+      "precio": 80,
+      "color": "Blanco"
+    },
+    {
+      "id": "3",
+      "nombre": "Zapatillas de running",
+      "marca": "Puma",
+      "precio": 120,
+      "color": "Gris"
+    }
+]
